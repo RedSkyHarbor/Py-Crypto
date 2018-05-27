@@ -1,15 +1,14 @@
-# Py-Crypto: A playground for me to combine crpytographic primitives
-
-
-* **Py-Crypto** 
-  - Created using the python library 'cryptography'
-    - "cryptography includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions. " 
-    - More here : https://cryptography.io/en/latest/
-
+# Py-Crypto:
+ 
 * **Overview**
-  - Not sure yet. Gonna start messing with this library soon!
   - Provided as is under MIT license, as in you should not use my code where security actually matters.
 
 * **Project Goals**
+  - To apply my knowledge of cryptography to create new (or reimagined ) implementations of secure encryption schemes.
   - performance, fun, expressiveness?
+ 
+* **Project Details**
+  - Built using cryptographic primitives provided by the python library cryptography
+    - "includes both high level recipes and low level interfaces to common cryptographic algorithms...is broadly divided into two levels: One with safe cryptographic recipes that require little to no configuration choices...The other is low-level cryptographic primitives. These are often dangerous and can be used incorrectly."
+    - More here : https://cryptography.io/en/latest/
 
